@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">LearningAndroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_data">Get data</string>
+    <string name="placeholder">Placeholder</string>
+
+</resources>
